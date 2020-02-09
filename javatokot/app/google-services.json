@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914076512796",
+    "firebase_url": "https://javatokot.firebaseio.com",
+    "project_id": "javatokot",
+    "storage_bucket": "javatokot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914076512796:android:4feeb491643f8d0e7265d9",
+        "android_client_info": {
+          "package_name": "com.example.javatokot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914076512796-pj2l6hin1f8olfvfbktre4ovjo2p5t3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.javatokot",
+            "certificate_hash": "6de7cc12b95cc3239c53a5d4deec7fb8211c5e52"
+          }
+        },
+        {
+          "client_id": "914076512796-9eubbejgod5bov9mlhhh2k6mmiknc6j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTn1U3ObX3QfteatXpJPF6ApdgxglWBso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914076512796-9eubbejgod5bov9mlhhh2k6mmiknc6j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
